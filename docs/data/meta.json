@@ -8813,1930 +8813,6 @@
       "rank": 1
     },
     {
-      "line": "N1",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 4,
-          "tripCount": 5,
-          "stops": 20,
-          "lengthKm": 6.93,
-          "stats": {
-            "observations": 348,
-            "matched": 348,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.02193769475456636,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dunkelhölzli",
-          "variants": 4,
-          "tripCount": 7,
-          "stops": 20,
-          "lengthKm": 7.07,
-          "stats": {
-            "observations": 341,
-            "matched": 341,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.019234180048991703,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N2",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Sihlcity",
-          "variants": 12,
-          "tripCount": 3,
-          "stops": 32,
-          "lengthKm": 14.57,
-          "stats": {
-            "observations": 715,
-            "matched": 715,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01304501518207849,
-            "roundaboutSegs": 16,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Waidhof",
-          "variants": 10,
-          "tripCount": 3,
-          "stops": 32,
-          "lengthKm": 14.52,
-          "stats": {
-            "observations": 727,
-            "matched": 727,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01524913703983927,
-            "roundaboutSegs": 5,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N3",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Albisrieden",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 14,
-          "lengthKm": 4.89,
-          "stats": {
-            "observations": 225,
-            "matched": 225,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.0181674003011947,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 2,
-          "tripCount": 6,
-          "stops": 14,
-          "lengthKm": 5.01,
-          "stats": {
-            "observations": 231,
-            "matched": 231,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.017721976332337026,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N4",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Zollikon, Bahnhof",
-          "variants": 8,
-          "tripCount": 3,
-          "stops": 23,
-          "lengthKm": 8.7,
-          "stats": {
-            "observations": 437,
-            "matched": 437,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.515592607303078,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 6,
-          "tripCount": 4,
-          "stops": 19,
-          "lengthKm": 7.9,
-          "stats": {
-            "observations": 396,
-            "matched": 396,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.33855917897937954,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N5",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 2,
-          "tripCount": 6,
-          "stops": 13,
-          "lengthKm": 4.08,
-          "stats": {
-            "observations": 205,
-            "matched": 205,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01902437869548519,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Sihlcity",
-          "variants": 2,
-          "tripCount": 6,
-          "stops": 13,
-          "lengthKm": 4.29,
-          "stats": {
-            "observations": 216,
-            "matched": 216,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.2892752815850185,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N6",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 16,
-          "lengthKm": 12.72,
-          "stats": {
-            "observations": 639,
-            "matched": 639,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.017788879792273782,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhof Stettbach",
-          "variants": 3,
-          "tripCount": 3,
-          "stops": 16,
-          "lengthKm": 9.41,
-          "stats": {
-            "observations": 472,
-            "matched": 472,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01760745732872523,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N7",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofstrasse/HB",
-          "variants": 3,
-          "tripCount": 6,
-          "stops": 19,
-          "lengthKm": 7.8,
-          "stats": {
-            "observations": 391,
-            "matched": 391,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.021907215092867926,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhof Stettbach",
-          "variants": 1,
-          "tripCount": 7,
-          "stops": 19,
-          "lengthKm": 8.23,
-          "stats": {
-            "observations": 377,
-            "matched": 377,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.06246349076943314,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N8",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Triemli",
-          "variants": 4,
-          "tripCount": 7,
-          "stops": 26,
-          "lengthKm": 14.01,
-          "stats": {
-            "observations": 661,
-            "matched": 661,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01258735177188987,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhof Oerlikon Nord",
-          "variants": 4,
-          "tripCount": 7,
-          "stops": 26,
-          "lengthKm": 14.24,
-          "stats": {
-            "observations": 689,
-            "matched": 689,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.012257204220090743,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N9",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bellevue",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 33,
-          "lengthKm": 14.57,
-          "stats": {
-            "observations": 716,
-            "matched": 716,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.05389494404035375,
-            "roundaboutSegs": 39,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Wallisellen, Glatt (Bus)",
-          "variants": 3,
-          "tripCount": 7,
-          "stops": 35,
-          "lengthKm": 14.8,
-          "stats": {
-            "observations": 741,
-            "matched": 741,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.07864230621026598,
-            "roundaboutSegs": 35,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N10",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 6,
-          "tripCount": 10,
-          "stops": 35,
-          "lengthKm": 14.39,
-          "stats": {
-            "observations": 693,
-            "matched": 693,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01798116450792243,
-            "roundaboutSegs": 44,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Kloten, Bahnhof",
-          "variants": 8,
-          "tripCount": 12,
-          "stops": 32,
-          "lengthKm": 14.1,
-          "stats": {
-            "observations": 706,
-            "matched": 706,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.015482753604237629,
-            "roundaboutSegs": 57,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N12",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhof Altstetten",
-          "variants": 6,
-          "tripCount": 6,
-          "stops": 33,
-          "lengthKm": 13.18,
-          "stats": {
-            "observations": 640,
-            "matched": 640,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.02315133705043676,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Schwamendingerplatz",
-          "variants": 1,
-          "tripCount": 7,
-          "stops": 36,
-          "lengthKm": 13.5,
-          "stats": {
-            "observations": 650,
-            "matched": 650,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.1543759015561196,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N13",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 3,
-          "tripCount": 6,
-          "stops": 21,
-          "lengthKm": 11.09,
-          "stats": {
-            "observations": 556,
-            "matched": 556,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01675662653837605,
-            "roundaboutSegs": 18,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Unterengstringen, Sennenbüel N",
-          "variants": 4,
-          "tripCount": 7,
-          "stops": 20,
-          "lengthKm": 10.93,
-          "stats": {
-            "observations": 534,
-            "matched": 534,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.018520372701459918,
-            "roundaboutSegs": 6,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N14",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Uitikon, Dorf",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 19,
-          "lengthKm": 10.1,
-          "stats": {
-            "observations": 490,
-            "matched": 490,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.17035703037897482,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 3,
-          "tripCount": 5,
-          "stops": 14,
-          "lengthKm": 7.23,
-          "stats": {
-            "observations": 363,
-            "matched": 363,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.09157434373844187,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N15",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Adliswil, Schulhaus Kopfholz",
-          "variants": 6,
-          "tripCount": 3,
-          "stops": 38,
-          "lengthKm": 16.75,
-          "stats": {
-            "observations": 824,
-            "matched": 824,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01488636902892255,
-            "roundaboutSegs": 51,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Milchbuck",
-          "variants": 3,
-          "tripCount": 3,
-          "stops": 38,
-          "lengthKm": 15.02,
-          "stats": {
-            "observations": 752,
-            "matched": 752,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01321372094233305,
-            "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N16",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Thalwil, Zentrum",
-          "variants": 3,
-          "tripCount": 7,
-          "stops": 35,
-          "lengthKm": 14.23,
-          "stats": {
-            "observations": 713,
-            "matched": 713,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.1276453115204025,
-            "roundaboutSegs": 55,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhofstrasse/HB",
-          "variants": 4,
-          "tripCount": 6,
-          "stops": 21,
-          "lengthKm": 10.41,
-          "stats": {
-            "observations": 522,
-            "matched": 522,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.011923558362051624,
-            "roundaboutSegs": 5,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N17",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofstrasse/HB",
-          "variants": 2,
-          "tripCount": 5,
-          "stops": 20,
-          "lengthKm": 8.84,
-          "stats": {
-            "observations": 443,
-            "matched": 443,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01826398222721797,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Schlieren, Geissweid",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 23,
-          "lengthKm": 11.17,
-          "stats": {
-            "observations": 543,
-            "matched": 543,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.036037508531640915,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N18",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Adliswil, Büchel",
-          "variants": 4,
-          "tripCount": 4,
-          "stops": 34,
-          "lengthKm": 15.08,
-          "stats": {
-            "observations": 724,
-            "matched": 724,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014966513252487315,
-            "roundaboutSegs": 51,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Milchbuck",
-          "variants": 3,
-          "tripCount": 3,
-          "stops": 31,
-          "lengthKm": 13.04,
-          "stats": {
-            "observations": 653,
-            "matched": 653,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.016650875055376824,
-            "roundaboutSegs": 27,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N22",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Obfelden, Unterlunnern",
-          "headsign": "Obfelden, Unterlunnern",
-          "variants": 1,
-          "tripCount": 87,
-          "stops": 24,
-          "lengthKm": 17.26,
-          "stats": {
-            "observations": 845,
-            "matched": 845,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.009798454808521458,
-            "roundaboutSegs": 69,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N23",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Bonstetten-Wettswil, Bahnhof",
-          "headsign": "Bonstetten-Wettswil, Bahnhof",
-          "variants": 2,
-          "tripCount": 23,
-          "stops": 20,
-          "lengthKm": 15.73,
-          "stats": {
-            "observations": 772,
-            "matched": 772,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.010254101041123379,
-            "roundaboutSegs": 8,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "Stallikon, Aumüli",
-          "headsign": "Stallikon, Aumüli",
-          "variants": 2,
-          "tripCount": 20,
-          "stops": 16,
-          "lengthKm": 11.24,
-          "stats": {
-            "observations": 548,
-            "matched": 548,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.010539719739511498,
-            "roundaboutSegs": 8,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N24",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Mettmenstetten, Rennweg",
-          "headsign": "Mettmenstetten, Rennweg",
-          "variants": 2,
-          "tripCount": 43,
-          "stops": 31,
-          "lengthKm": 17.79,
-          "stats": {
-            "observations": 1599,
-            "matched": 538,
-            "noCandidates": 1061,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 1,
-            "rawMeters": 120,
-            "meanError": 1.111405435219503,
-            "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "Rifferswil, Oberrifferswil",
-          "headsign": "Rifferswil, Oberrifferswil",
-          "variants": 1,
-          "tripCount": 22,
-          "stops": 23,
-          "lengthKm": 10.74,
-          "stats": {
-            "observations": 1021,
-            "matched": 524,
-            "noCandidates": 497,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.21665320865860097,
-            "roundaboutSegs": 31,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N25",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Horgen, Bahnhof",
-          "variants": 1,
-          "tripCount": 28,
-          "stops": 8,
-          "lengthKm": 3.24,
-          "stats": {
-            "observations": 163,
-            "matched": 163,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014735074391880132,
-            "roundaboutSegs": 37,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oberrieden, Bahnhof",
-          "variants": 1,
-          "tripCount": 28,
-          "stops": 7,
-          "lengthKm": 3.72,
-          "stats": {
-            "observations": 187,
-            "matched": 187,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.012021740644664509,
-            "roundaboutSegs": 26,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N30",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Schlieren, Zentrum/Bahnhof",
-          "variants": 4,
-          "tripCount": 3,
-          "stops": 13,
-          "lengthKm": 7.23,
-          "stats": {
-            "observations": 363,
-            "matched": 363,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.02489258732785836,
-            "roundaboutSegs": 67,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Geroldswil, Zentrum",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 13,
-          "lengthKm": 7.15,
-          "stats": {
-            "observations": 359,
-            "matched": 359,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.023011410544987343,
-            "roundaboutSegs": 49,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N33",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Triemli",
-          "variants": 5,
-          "tripCount": 7,
-          "stops": 33,
-          "lengthKm": 12.14,
-          "stats": {
-            "observations": 574,
-            "matched": 574,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.017465689588145202,
-            "roundaboutSegs": 10,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhof Tiefenbrunnen",
-          "variants": 7,
-          "tripCount": 7,
-          "stops": 34,
-          "lengthKm": 12.23,
-          "stats": {
-            "observations": 613,
-            "matched": 613,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.05247725407806819,
-            "roundaboutSegs": 20,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N34",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Dietikon, Bahnhof",
-          "variants": 1,
-          "tripCount": 8,
-          "stops": 4,
-          "lengthKm": 4.26,
-          "stats": {
-            "observations": 214,
-            "matched": 214,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.012682233712452959,
-            "roundaboutSegs": 34,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oetwil an der Limmat, Zentrum",
-          "variants": 2,
-          "tripCount": 11,
-          "stops": 26,
-          "lengthKm": 11.42,
-          "stats": {
-            "observations": 572,
-            "matched": 572,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.017254060851253125,
-            "roundaboutSegs": 67,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N36",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Schlieren, Zentrum/Bahnhof",
-          "headsign": "Schlieren, Zentrum/Bahnhof",
-          "variants": 2,
-          "tripCount": 8,
-          "stops": 16,
-          "lengthKm": 8.33,
-          "stats": {
-            "observations": 418,
-            "matched": 418,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.015187619879928175,
-            "roundaboutSegs": 16,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N45",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Boppelsen, Hand",
-          "variants": 2,
-          "tripCount": 12,
-          "stops": 24,
-          "lengthKm": 18.02,
-          "stats": {
-            "observations": 885,
-            "matched": 885,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.011307639882694176,
-            "roundaboutSegs": 132,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Regensdorf-Watt, Bahnhof",
-          "variants": 1,
-          "tripCount": 4,
-          "stops": 15,
-          "lengthKm": 10.98,
-          "stats": {
-            "observations": 535,
-            "matched": 535,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.010829982385820515,
-            "roundaboutSegs": 45,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N46",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 2,
-          "tripCount": 5,
-          "stops": 20,
-          "lengthKm": 7.6,
-          "stats": {
-            "observations": 381,
-            "matched": 381,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.013991952714484597,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Rütihof",
-          "variants": 2,
-          "tripCount": 6,
-          "stops": 20,
-          "lengthKm": 7.72,
-          "stats": {
-            "observations": 387,
-            "matched": 387,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014998111818984158,
-            "roundaboutSegs": 0,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N51",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Schneisingen, Mitteldorf",
-          "variants": 1,
-          "tripCount": 87,
-          "stops": 18,
-          "lengthKm": 17.39,
-          "stats": {
-            "observations": 841,
-            "matched": 841,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.011593729135839097,
-            "roundaboutSegs": 63,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Oberglatt ZH, Bahnhof",
-          "variants": 1,
-          "tripCount": 65,
-          "stops": 15,
-          "lengthKm": 14.76,
-          "stats": {
-            "observations": 709,
-            "matched": 709,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.013142279841816611,
-            "roundaboutSegs": 45,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N52",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Freienstein, Alte Brücke",
-          "variants": 2,
-          "tripCount": 44,
-          "stops": 27,
-          "lengthKm": 17.69,
-          "stats": {
-            "observations": 849,
-            "matched": 849,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01506727594654753,
-            "roundaboutSegs": 49,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Kloten, Bahnhof",
-          "variants": 1,
-          "tripCount": 67,
-          "stops": 16,
-          "lengthKm": 8.86,
-          "stats": {
-            "observations": 444,
-            "matched": 444,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.007962393994948951,
-            "roundaboutSegs": 43,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N54",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Höri, Oberhöri",
-          "variants": 2,
-          "tripCount": 69,
-          "stops": 23,
-          "lengthKm": 14.4,
-          "stats": {
-            "observations": 721,
-            "matched": 721,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.013852495886959375,
-            "roundaboutSegs": 76,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Kloten, Bahnhof",
-          "variants": 2,
-          "tripCount": 68,
-          "stops": 19,
-          "lengthKm": 13.03,
-          "stats": {
-            "observations": 653,
-            "matched": 653,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.013877031987022077,
-            "roundaboutSegs": 39,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N62",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Agasul",
-          "headsign": "Agasul",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 16,
-          "lengthKm": 13.32,
-          "stats": {
-            "observations": 631,
-            "matched": 631,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014604352045777891,
-            "roundaboutSegs": 19,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N70",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Grafstal, Engelacher",
-          "headsign": "Grafstal, Engelacher",
-          "variants": 1,
-          "tripCount": 6,
-          "stops": 14,
-          "lengthKm": 15.58,
-          "stats": {
-            "observations": 763,
-            "matched": 763,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.011388484713869475,
-            "roundaboutSegs": 52,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N71",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Maur, See",
-          "variants": 1,
-          "tripCount": 4,
-          "stops": 29,
-          "lengthKm": 15.08,
-          "stats": {
-            "observations": 755,
-            "matched": 755,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.011994450635831409,
-            "roundaboutSegs": 8,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 2,
-          "tripCount": 3,
-          "stops": 26,
-          "lengthKm": 13.42,
-          "stats": {
-            "observations": 672,
-            "matched": 672,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.011734026604834198,
-            "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N74",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Schwerzenbach ZH, Bahnhof",
-          "variants": 1,
-          "tripCount": 4,
-          "stops": 27,
-          "lengthKm": 12.82,
-          "stats": {
-            "observations": 642,
-            "matched": 642,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.013099950446121791,
-            "roundaboutSegs": 53,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhofplatz/HB",
-          "variants": 1,
-          "tripCount": 4,
-          "stops": 29,
-          "lengthKm": 15.25,
-          "stats": {
-            "observations": 765,
-            "matched": 765,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.07661977923995063,
-            "roundaboutSegs": 74,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N75",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhof Oerlikon",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 14,
-          "lengthKm": 4.74,
-          "stats": {
-            "observations": 238,
-            "matched": 238,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01864577052914077,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Seebach",
-          "variants": 2,
-          "tripCount": 7,
-          "stops": 14,
-          "lengthKm": 4.52,
-          "stats": {
-            "observations": 227,
-            "matched": 227,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01806291520759618,
-            "roundaboutSegs": 3,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N76",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhof Stettbach",
-          "variants": 3,
-          "tripCount": 3,
-          "stops": 13,
-          "lengthKm": 4.86,
-          "stats": {
-            "observations": 244,
-            "matched": 244,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.017314432695816732,
-            "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dübendorf, Gfenn",
-          "variants": 3,
-          "tripCount": 7,
-          "stops": 15,
-          "lengthKm": 5.49,
-          "stats": {
-            "observations": 276,
-            "matched": 276,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.018730863755989195,
-            "roundaboutSegs": 3,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N77",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhof Stettbach",
-          "variants": 1,
-          "tripCount": 9,
-          "stops": 12,
-          "lengthKm": 4.28,
-          "stats": {
-            "observations": 215,
-            "matched": 215,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.015357490235678298,
-            "roundaboutSegs": 14,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Dübendorf, Kunsteisbahn",
-          "variants": 1,
-          "tripCount": 11,
-          "stops": 21,
-          "lengthKm": 6.1,
-          "stats": {
-            "observations": 306,
-            "matched": 306,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014987767858399156,
-            "roundaboutSegs": 34,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N78",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Nürensdorf, Zentrum",
-          "headsign": "Nürensdorf, Zentrum",
-          "variants": 2,
-          "tripCount": 4,
-          "stops": 20,
-          "lengthKm": 14.69,
-          "stats": {
-            "observations": 736,
-            "matched": 736,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014272157472017582,
-            "roundaboutSegs": 68,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N79",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Bahnhof Oerlikon",
-          "variants": 1,
-          "tripCount": 12,
-          "stops": 15,
-          "lengthKm": 6.51,
-          "stats": {
-            "observations": 327,
-            "matched": 327,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.018276110739602117,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Glattbrugg, Glatthof",
-          "variants": 2,
-          "tripCount": 15,
-          "stops": 16,
-          "lengthKm": 6.4,
-          "stats": {
-            "observations": 321,
-            "matched": 321,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01876640313943489,
-            "roundaboutSegs": 15,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N81",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "Uster, Wageren",
-          "headsign": "Uster, Wageren",
-          "variants": 1,
-          "tripCount": 7,
-          "stops": 26,
-          "lengthKm": 10.55,
-          "stats": {
-            "observations": 515,
-            "matched": 515,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014581375870817915,
-            "roundaboutSegs": 103,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
-      "line": "N91",
-      "mode": "bus",
-      "color": "#000000",
-      "dirs": [
-        {
-          "dir": "0",
-          "headsign": "Itschnach, Fallacher",
-          "variants": 5,
-          "tripCount": 4,
-          "stops": 27,
-          "lengthKm": 10.81,
-          "stats": {
-            "observations": 542,
-            "matched": 542,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.01467324209558279,
-            "roundaboutSegs": 22,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        },
-        {
-          "dir": "1",
-          "headsign": "Bahnhofstrasse/HB",
-          "variants": 8,
-          "tripCount": 3,
-          "stops": 27,
-          "lengthKm": 10.85,
-          "stats": {
-            "observations": 544,
-            "matched": 544,
-            "noCandidates": 0,
-            "viterbiBreaks": 0,
-            "bridged": 0,
-            "rawStretchCount": 0,
-            "rawMeters": 0,
-            "meanError": 0.014749970783252358,
-            "roundaboutSegs": 13,
-            "extStart": 0,
-            "extEnd": 0
-          }
-        }
-      ],
-      "rank": 2
-    },
-    {
       "line": "2",
       "mode": "tram",
       "color": "#d6212b",
@@ -12914,6 +10990,1930 @@
         }
       ],
       "rank": 1
+    },
+    {
+      "line": "N1",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 4,
+          "tripCount": 5,
+          "stops": 20,
+          "lengthKm": 6.93,
+          "stats": {
+            "observations": 348,
+            "matched": 348,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.02193769475456636,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dunkelhölzli",
+          "variants": 4,
+          "tripCount": 7,
+          "stops": 20,
+          "lengthKm": 7.07,
+          "stats": {
+            "observations": 341,
+            "matched": 341,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.019234180048991703,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N2",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Sihlcity",
+          "variants": 12,
+          "tripCount": 3,
+          "stops": 32,
+          "lengthKm": 14.57,
+          "stats": {
+            "observations": 715,
+            "matched": 715,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01304501518207849,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Waidhof",
+          "variants": 10,
+          "tripCount": 3,
+          "stops": 32,
+          "lengthKm": 14.52,
+          "stats": {
+            "observations": 727,
+            "matched": 727,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01524913703983927,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N3",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Albisrieden",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 14,
+          "lengthKm": 4.89,
+          "stats": {
+            "observations": 225,
+            "matched": 225,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.0181674003011947,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 14,
+          "lengthKm": 5.01,
+          "stats": {
+            "observations": 231,
+            "matched": 231,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.017721976332337026,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N4",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Zollikon, Bahnhof",
+          "variants": 8,
+          "tripCount": 3,
+          "stops": 23,
+          "lengthKm": 8.7,
+          "stats": {
+            "observations": 437,
+            "matched": 437,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.515592607303078,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 6,
+          "tripCount": 4,
+          "stops": 19,
+          "lengthKm": 7.9,
+          "stats": {
+            "observations": 396,
+            "matched": 396,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.33855917897937954,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N5",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 13,
+          "lengthKm": 4.08,
+          "stats": {
+            "observations": 205,
+            "matched": 205,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01902437869548519,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Sihlcity",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 13,
+          "lengthKm": 4.29,
+          "stats": {
+            "observations": 216,
+            "matched": 216,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.2892752815850185,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N6",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 16,
+          "lengthKm": 12.72,
+          "stats": {
+            "observations": 639,
+            "matched": 639,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.017788879792273782,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhof Stettbach",
+          "variants": 3,
+          "tripCount": 3,
+          "stops": 16,
+          "lengthKm": 9.41,
+          "stats": {
+            "observations": 472,
+            "matched": 472,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01760745732872523,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N7",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofstrasse/HB",
+          "variants": 3,
+          "tripCount": 6,
+          "stops": 19,
+          "lengthKm": 7.8,
+          "stats": {
+            "observations": 391,
+            "matched": 391,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.021907215092867926,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhof Stettbach",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 19,
+          "lengthKm": 8.23,
+          "stats": {
+            "observations": 377,
+            "matched": 377,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.06246349076943314,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N8",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Triemli",
+          "variants": 4,
+          "tripCount": 7,
+          "stops": 26,
+          "lengthKm": 14.01,
+          "stats": {
+            "observations": 661,
+            "matched": 661,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01258735177188987,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhof Oerlikon Nord",
+          "variants": 4,
+          "tripCount": 7,
+          "stops": 26,
+          "lengthKm": 14.24,
+          "stats": {
+            "observations": 689,
+            "matched": 689,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.012257204220090743,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N9",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bellevue",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 33,
+          "lengthKm": 14.57,
+          "stats": {
+            "observations": 716,
+            "matched": 716,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.05389494404035375,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Wallisellen, Glatt (Bus)",
+          "variants": 3,
+          "tripCount": 7,
+          "stops": 35,
+          "lengthKm": 14.8,
+          "stats": {
+            "observations": 741,
+            "matched": 741,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.07864230621026598,
+            "roundaboutSegs": 35,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N10",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 6,
+          "tripCount": 10,
+          "stops": 35,
+          "lengthKm": 14.39,
+          "stats": {
+            "observations": 693,
+            "matched": 693,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01798116450792243,
+            "roundaboutSegs": 44,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Kloten, Bahnhof",
+          "variants": 8,
+          "tripCount": 12,
+          "stops": 32,
+          "lengthKm": 14.1,
+          "stats": {
+            "observations": 706,
+            "matched": 706,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.015482753604237629,
+            "roundaboutSegs": 57,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N12",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhof Altstetten",
+          "variants": 6,
+          "tripCount": 6,
+          "stops": 33,
+          "lengthKm": 13.18,
+          "stats": {
+            "observations": 640,
+            "matched": 640,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.02315133705043676,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Schwamendingerplatz",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 36,
+          "lengthKm": 13.5,
+          "stats": {
+            "observations": 650,
+            "matched": 650,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.1543759015561196,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N13",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 3,
+          "tripCount": 6,
+          "stops": 21,
+          "lengthKm": 11.09,
+          "stats": {
+            "observations": 556,
+            "matched": 556,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01675662653837605,
+            "roundaboutSegs": 18,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Unterengstringen, Sennenbüel N",
+          "variants": 4,
+          "tripCount": 7,
+          "stops": 20,
+          "lengthKm": 10.93,
+          "stats": {
+            "observations": 534,
+            "matched": 534,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.018520372701459918,
+            "roundaboutSegs": 6,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N14",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Uitikon, Dorf",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 19,
+          "lengthKm": 10.1,
+          "stats": {
+            "observations": 490,
+            "matched": 490,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.17035703037897482,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 3,
+          "tripCount": 5,
+          "stops": 14,
+          "lengthKm": 7.23,
+          "stats": {
+            "observations": 363,
+            "matched": 363,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.09157434373844187,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N15",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Adliswil, Schulhaus Kopfholz",
+          "variants": 6,
+          "tripCount": 3,
+          "stops": 38,
+          "lengthKm": 16.75,
+          "stats": {
+            "observations": 824,
+            "matched": 824,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01488636902892255,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Milchbuck",
+          "variants": 3,
+          "tripCount": 3,
+          "stops": 38,
+          "lengthKm": 15.02,
+          "stats": {
+            "observations": 752,
+            "matched": 752,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01321372094233305,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N16",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Thalwil, Zentrum",
+          "variants": 3,
+          "tripCount": 7,
+          "stops": 35,
+          "lengthKm": 14.23,
+          "stats": {
+            "observations": 713,
+            "matched": 713,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.1276453115204025,
+            "roundaboutSegs": 55,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhofstrasse/HB",
+          "variants": 4,
+          "tripCount": 6,
+          "stops": 21,
+          "lengthKm": 10.41,
+          "stats": {
+            "observations": 522,
+            "matched": 522,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.011923558362051624,
+            "roundaboutSegs": 5,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N17",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofstrasse/HB",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 20,
+          "lengthKm": 8.84,
+          "stats": {
+            "observations": 443,
+            "matched": 443,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01826398222721797,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Schlieren, Geissweid",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 23,
+          "lengthKm": 11.17,
+          "stats": {
+            "observations": 543,
+            "matched": 543,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.036037508531640915,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N18",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Adliswil, Büchel",
+          "variants": 4,
+          "tripCount": 4,
+          "stops": 34,
+          "lengthKm": 15.08,
+          "stats": {
+            "observations": 724,
+            "matched": 724,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014966513252487315,
+            "roundaboutSegs": 51,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Milchbuck",
+          "variants": 3,
+          "tripCount": 3,
+          "stops": 31,
+          "lengthKm": 13.04,
+          "stats": {
+            "observations": 653,
+            "matched": 653,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.016650875055376824,
+            "roundaboutSegs": 27,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N22",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Obfelden, Unterlunnern",
+          "headsign": "Obfelden, Unterlunnern",
+          "variants": 1,
+          "tripCount": 87,
+          "stops": 24,
+          "lengthKm": 17.26,
+          "stats": {
+            "observations": 845,
+            "matched": 845,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.009798454808521458,
+            "roundaboutSegs": 69,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N23",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Bonstetten-Wettswil, Bahnhof",
+          "headsign": "Bonstetten-Wettswil, Bahnhof",
+          "variants": 2,
+          "tripCount": 23,
+          "stops": 20,
+          "lengthKm": 15.73,
+          "stats": {
+            "observations": 772,
+            "matched": 772,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.010254101041123379,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Stallikon, Aumüli",
+          "headsign": "Stallikon, Aumüli",
+          "variants": 2,
+          "tripCount": 20,
+          "stops": 16,
+          "lengthKm": 11.24,
+          "stats": {
+            "observations": 548,
+            "matched": 548,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.010539719739511498,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N24",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Mettmenstetten, Rennweg",
+          "headsign": "Mettmenstetten, Rennweg",
+          "variants": 2,
+          "tripCount": 43,
+          "stops": 31,
+          "lengthKm": 17.79,
+          "stats": {
+            "observations": 1599,
+            "matched": 538,
+            "noCandidates": 1061,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 1,
+            "rawMeters": 120,
+            "meanError": 1.111405435219503,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "Rifferswil, Oberrifferswil",
+          "headsign": "Rifferswil, Oberrifferswil",
+          "variants": 1,
+          "tripCount": 22,
+          "stops": 23,
+          "lengthKm": 10.74,
+          "stats": {
+            "observations": 1021,
+            "matched": 524,
+            "noCandidates": 497,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.21665320865860097,
+            "roundaboutSegs": 31,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N25",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Horgen, Bahnhof",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 8,
+          "lengthKm": 3.24,
+          "stats": {
+            "observations": 163,
+            "matched": 163,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014735074391880132,
+            "roundaboutSegs": 37,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oberrieden, Bahnhof",
+          "variants": 1,
+          "tripCount": 28,
+          "stops": 7,
+          "lengthKm": 3.72,
+          "stats": {
+            "observations": 187,
+            "matched": 187,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.012021740644664509,
+            "roundaboutSegs": 26,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N30",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Schlieren, Zentrum/Bahnhof",
+          "variants": 4,
+          "tripCount": 3,
+          "stops": 13,
+          "lengthKm": 7.23,
+          "stats": {
+            "observations": 363,
+            "matched": 363,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.02489258732785836,
+            "roundaboutSegs": 67,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Geroldswil, Zentrum",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 13,
+          "lengthKm": 7.15,
+          "stats": {
+            "observations": 359,
+            "matched": 359,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.023011410544987343,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N33",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Triemli",
+          "variants": 5,
+          "tripCount": 7,
+          "stops": 33,
+          "lengthKm": 12.14,
+          "stats": {
+            "observations": 574,
+            "matched": 574,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.017465689588145202,
+            "roundaboutSegs": 10,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhof Tiefenbrunnen",
+          "variants": 7,
+          "tripCount": 7,
+          "stops": 34,
+          "lengthKm": 12.23,
+          "stats": {
+            "observations": 613,
+            "matched": 613,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.05247725407806819,
+            "roundaboutSegs": 20,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N34",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Dietikon, Bahnhof",
+          "variants": 1,
+          "tripCount": 8,
+          "stops": 4,
+          "lengthKm": 4.26,
+          "stats": {
+            "observations": 214,
+            "matched": 214,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.012682233712452959,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oetwil an der Limmat, Zentrum",
+          "variants": 2,
+          "tripCount": 11,
+          "stops": 26,
+          "lengthKm": 11.42,
+          "stats": {
+            "observations": 572,
+            "matched": 572,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.017254060851253125,
+            "roundaboutSegs": 67,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N36",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Schlieren, Zentrum/Bahnhof",
+          "headsign": "Schlieren, Zentrum/Bahnhof",
+          "variants": 2,
+          "tripCount": 8,
+          "stops": 16,
+          "lengthKm": 8.33,
+          "stats": {
+            "observations": 418,
+            "matched": 418,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.015187619879928175,
+            "roundaboutSegs": 16,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N45",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Boppelsen, Hand",
+          "variants": 2,
+          "tripCount": 12,
+          "stops": 24,
+          "lengthKm": 18.02,
+          "stats": {
+            "observations": 885,
+            "matched": 885,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.011307639882694176,
+            "roundaboutSegs": 132,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Regensdorf-Watt, Bahnhof",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 15,
+          "lengthKm": 10.98,
+          "stats": {
+            "observations": 535,
+            "matched": 535,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.010829982385820515,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N46",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 2,
+          "tripCount": 5,
+          "stops": 20,
+          "lengthKm": 7.6,
+          "stats": {
+            "observations": 381,
+            "matched": 381,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.013991952714484597,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Rütihof",
+          "variants": 2,
+          "tripCount": 6,
+          "stops": 20,
+          "lengthKm": 7.72,
+          "stats": {
+            "observations": 387,
+            "matched": 387,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014998111818984158,
+            "roundaboutSegs": 0,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N51",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Schneisingen, Mitteldorf",
+          "variants": 1,
+          "tripCount": 87,
+          "stops": 18,
+          "lengthKm": 17.39,
+          "stats": {
+            "observations": 841,
+            "matched": 841,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.011593729135839097,
+            "roundaboutSegs": 63,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Oberglatt ZH, Bahnhof",
+          "variants": 1,
+          "tripCount": 65,
+          "stops": 15,
+          "lengthKm": 14.76,
+          "stats": {
+            "observations": 709,
+            "matched": 709,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.013142279841816611,
+            "roundaboutSegs": 45,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N52",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Freienstein, Alte Brücke",
+          "variants": 2,
+          "tripCount": 44,
+          "stops": 27,
+          "lengthKm": 17.69,
+          "stats": {
+            "observations": 849,
+            "matched": 849,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01506727594654753,
+            "roundaboutSegs": 49,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Kloten, Bahnhof",
+          "variants": 1,
+          "tripCount": 67,
+          "stops": 16,
+          "lengthKm": 8.86,
+          "stats": {
+            "observations": 444,
+            "matched": 444,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.007962393994948951,
+            "roundaboutSegs": 43,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N54",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Höri, Oberhöri",
+          "variants": 2,
+          "tripCount": 69,
+          "stops": 23,
+          "lengthKm": 14.4,
+          "stats": {
+            "observations": 721,
+            "matched": 721,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.013852495886959375,
+            "roundaboutSegs": 76,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Kloten, Bahnhof",
+          "variants": 2,
+          "tripCount": 68,
+          "stops": 19,
+          "lengthKm": 13.03,
+          "stats": {
+            "observations": 653,
+            "matched": 653,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.013877031987022077,
+            "roundaboutSegs": 39,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N62",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Agasul",
+          "headsign": "Agasul",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 16,
+          "lengthKm": 13.32,
+          "stats": {
+            "observations": 631,
+            "matched": 631,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014604352045777891,
+            "roundaboutSegs": 19,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N70",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Grafstal, Engelacher",
+          "headsign": "Grafstal, Engelacher",
+          "variants": 1,
+          "tripCount": 6,
+          "stops": 14,
+          "lengthKm": 15.58,
+          "stats": {
+            "observations": 763,
+            "matched": 763,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.011388484713869475,
+            "roundaboutSegs": 52,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N71",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Maur, See",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 29,
+          "lengthKm": 15.08,
+          "stats": {
+            "observations": 755,
+            "matched": 755,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.011994450635831409,
+            "roundaboutSegs": 8,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 2,
+          "tripCount": 3,
+          "stops": 26,
+          "lengthKm": 13.42,
+          "stats": {
+            "observations": 672,
+            "matched": 672,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.011734026604834198,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N74",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Schwerzenbach ZH, Bahnhof",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 27,
+          "lengthKm": 12.82,
+          "stats": {
+            "observations": 642,
+            "matched": 642,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.013099950446121791,
+            "roundaboutSegs": 53,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhofplatz/HB",
+          "variants": 1,
+          "tripCount": 4,
+          "stops": 29,
+          "lengthKm": 15.25,
+          "stats": {
+            "observations": 765,
+            "matched": 765,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.07661977923995063,
+            "roundaboutSegs": 74,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N75",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhof Oerlikon",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 14,
+          "lengthKm": 4.74,
+          "stats": {
+            "observations": 238,
+            "matched": 238,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01864577052914077,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Seebach",
+          "variants": 2,
+          "tripCount": 7,
+          "stops": 14,
+          "lengthKm": 4.52,
+          "stats": {
+            "observations": 227,
+            "matched": 227,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01806291520759618,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N76",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhof Stettbach",
+          "variants": 3,
+          "tripCount": 3,
+          "stops": 13,
+          "lengthKm": 4.86,
+          "stats": {
+            "observations": 244,
+            "matched": 244,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.017314432695816732,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dübendorf, Gfenn",
+          "variants": 3,
+          "tripCount": 7,
+          "stops": 15,
+          "lengthKm": 5.49,
+          "stats": {
+            "observations": 276,
+            "matched": 276,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.018730863755989195,
+            "roundaboutSegs": 3,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N77",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhof Stettbach",
+          "variants": 1,
+          "tripCount": 9,
+          "stops": 12,
+          "lengthKm": 4.28,
+          "stats": {
+            "observations": 215,
+            "matched": 215,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.015357490235678298,
+            "roundaboutSegs": 14,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Dübendorf, Kunsteisbahn",
+          "variants": 1,
+          "tripCount": 11,
+          "stops": 21,
+          "lengthKm": 6.1,
+          "stats": {
+            "observations": 306,
+            "matched": 306,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014987767858399156,
+            "roundaboutSegs": 34,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N78",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Nürensdorf, Zentrum",
+          "headsign": "Nürensdorf, Zentrum",
+          "variants": 2,
+          "tripCount": 4,
+          "stops": 20,
+          "lengthKm": 14.69,
+          "stats": {
+            "observations": 736,
+            "matched": 736,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014272157472017582,
+            "roundaboutSegs": 68,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N79",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Bahnhof Oerlikon",
+          "variants": 1,
+          "tripCount": 12,
+          "stops": 15,
+          "lengthKm": 6.51,
+          "stats": {
+            "observations": 327,
+            "matched": 327,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.018276110739602117,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Glattbrugg, Glatthof",
+          "variants": 2,
+          "tripCount": 15,
+          "stops": 16,
+          "lengthKm": 6.4,
+          "stats": {
+            "observations": 321,
+            "matched": 321,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01876640313943489,
+            "roundaboutSegs": 15,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N81",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "Uster, Wageren",
+          "headsign": "Uster, Wageren",
+          "variants": 1,
+          "tripCount": 7,
+          "stops": 26,
+          "lengthKm": 10.55,
+          "stats": {
+            "observations": 515,
+            "matched": 515,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014581375870817915,
+            "roundaboutSegs": 103,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "line": "N91",
+      "mode": "bus",
+      "color": "#000000",
+      "dirs": [
+        {
+          "dir": "0",
+          "headsign": "Itschnach, Fallacher",
+          "variants": 5,
+          "tripCount": 4,
+          "stops": 27,
+          "lengthKm": 10.81,
+          "stats": {
+            "observations": 542,
+            "matched": 542,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.01467324209558279,
+            "roundaboutSegs": 22,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        },
+        {
+          "dir": "1",
+          "headsign": "Bahnhofstrasse/HB",
+          "variants": 8,
+          "tripCount": 3,
+          "stops": 27,
+          "lengthKm": 10.85,
+          "stats": {
+            "observations": 544,
+            "matched": 544,
+            "noCandidates": 0,
+            "viterbiBreaks": 0,
+            "bridged": 0,
+            "rawStretchCount": 0,
+            "rawMeters": 0,
+            "meanError": 0.014749970783252358,
+            "roundaboutSegs": 13,
+            "extStart": 0,
+            "extEnd": 0
+          }
+        }
+      ],
+      "rank": 2
     },
     {
       "line": "SN1",
