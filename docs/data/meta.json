@@ -8815,7 +8815,7 @@
     {
       "line": "N1",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -8865,7 +8865,7 @@
     {
       "line": "N2",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -8915,7 +8915,7 @@
     {
       "line": "N3",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -8965,7 +8965,7 @@
     {
       "line": "N4",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9015,7 +9015,7 @@
     {
       "line": "N5",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9065,7 +9065,7 @@
     {
       "line": "N6",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9115,7 +9115,7 @@
     {
       "line": "N7",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9165,7 +9165,7 @@
     {
       "line": "N8",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9215,7 +9215,7 @@
     {
       "line": "N9",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9265,7 +9265,7 @@
     {
       "line": "N10",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9315,7 +9315,7 @@
     {
       "line": "N12",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9365,7 +9365,7 @@
     {
       "line": "N13",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9415,7 +9415,7 @@
     {
       "line": "N14",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9465,7 +9465,7 @@
     {
       "line": "N15",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9515,7 +9515,7 @@
     {
       "line": "N16",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9565,7 +9565,7 @@
     {
       "line": "N17",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9615,7 +9615,7 @@
     {
       "line": "N18",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9665,7 +9665,7 @@
     {
       "line": "N22",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Obfelden, Unterlunnern",
@@ -9694,7 +9694,7 @@
     {
       "line": "N23",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Bonstetten-Wettswil, Bahnhof",
@@ -9744,7 +9744,7 @@
     {
       "line": "N24",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Mettmenstetten, Rennweg",
@@ -9794,7 +9794,7 @@
     {
       "line": "N25",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9844,7 +9844,7 @@
     {
       "line": "N30",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9894,7 +9894,7 @@
     {
       "line": "N33",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9944,7 +9944,7 @@
     {
       "line": "N34",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -9994,7 +9994,7 @@
     {
       "line": "N36",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Schlieren, Zentrum/Bahnhof",
@@ -10023,7 +10023,7 @@
     {
       "line": "N45",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10073,7 +10073,7 @@
     {
       "line": "N46",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10123,7 +10123,7 @@
     {
       "line": "N51",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10173,7 +10173,7 @@
     {
       "line": "N52",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10223,7 +10223,7 @@
     {
       "line": "N54",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10273,7 +10273,7 @@
     {
       "line": "N62",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Agasul",
@@ -10302,7 +10302,7 @@
     {
       "line": "N70",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Grafstal, Engelacher",
@@ -10331,7 +10331,7 @@
     {
       "line": "N71",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10381,7 +10381,7 @@
     {
       "line": "N74",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10431,7 +10431,7 @@
     {
       "line": "N75",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10481,7 +10481,7 @@
     {
       "line": "N76",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10531,7 +10531,7 @@
     {
       "line": "N77",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10581,7 +10581,7 @@
     {
       "line": "N78",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Nürensdorf, Zentrum",
@@ -10610,7 +10610,7 @@
     {
       "line": "N79",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -10660,7 +10660,7 @@
     {
       "line": "N81",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "Uster, Wageren",
@@ -10689,7 +10689,7 @@
     {
       "line": "N91",
       "mode": "bus",
-      "color": "#0059a9",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -12918,7 +12918,7 @@
     {
       "line": "SN1",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -12968,7 +12968,7 @@
     {
       "line": "SN4",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13018,7 +13018,7 @@
     {
       "line": "SN5",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13068,7 +13068,7 @@
     {
       "line": "SN6",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13118,7 +13118,7 @@
     {
       "line": "SN7",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13168,7 +13168,7 @@
     {
       "line": "SN8",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13218,7 +13218,7 @@
     {
       "line": "SN9",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13268,7 +13268,7 @@
     {
       "line": "SN11",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13318,7 +13318,7 @@
     {
       "line": "SN18",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
@@ -13368,7 +13368,7 @@
     {
       "line": "SN41",
       "mode": "tram",
-      "color": "#0A4595",
+      "color": "#000000",
       "dirs": [
         {
           "dir": "0",
