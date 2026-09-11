@@ -8461,7 +8461,7 @@
       "dirs": [
         {
           "dir": "Herrliberg-Feldmeilen,Bhf West",
-          "headsign": "Herrliberg-Feldmeilen,Bhf West",
+          "headsign": "Herrliberg-Feldmeilen, Bhf West",
           "variants": 2,
           "tripCount": 58,
           "stops": 13,
@@ -8490,7 +8490,7 @@
       "dirs": [
         {
           "dir": "Herrliberg-Feldmeilen,Bhf West",
-          "headsign": "Herrliberg-Feldmeilen,Bhf West",
+          "headsign": "Herrliberg-Feldmeilen, Bhf West",
           "variants": 2,
           "tripCount": 55,
           "stops": 14,
